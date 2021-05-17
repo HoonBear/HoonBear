@@ -1,7 +1,7 @@
 
 ### Hello World!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Gmail Badge](https://img.shields.io/badge/-dev.jh.son@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jh.son@gmail.com)](mailto:dev.jh.son@gmail.comm)
+[![Gmail Badge](https://img.shields.io/badge/-dev.jh.son@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jh.son@gmail.com)](mailto:dev.jh.son@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HoonBear" alt="HoonBear" /> </p>
 
 I want more technology, better technology..
