@@ -12,12 +12,6 @@ I want more technology, better technology..
 * MySql/MariaDB
 * AWS
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HoonBear&layout=compact">
-
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='30'/>
- 
-## Other Stuff
-
-![HoonBear's github stats](https://github-readme-stats.vercel.app/api?username=HoonBear&show_icons=true&hide=[%22issues%22])
